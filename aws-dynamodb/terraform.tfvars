@@ -1,4 +1,4 @@
-aws_region            = "us-east-1"
+aws_region            = "ap-northeast-2"
 table_name            = "GameScores"
 billing_mode          = "PROVISIONED"
 read_capacity         = 20
